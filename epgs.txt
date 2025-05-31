@@ -1,2 +1,7 @@
 https://www.andorradifusio.ad/programacio/canalweb.xml.gz
+https://distritotv.es/parrilla-2/.xml.gz
 https://elche7tv.es/parrilla/.xml.gz
+https://playmelilla.es/guiatv/.xml.gz
+https://www.navarratelevision.es/Programacion/Canal2.xml.gz
+https://populartvcantabria.com/guia-tv/.xml.gz
+https://www.tennis.com/t2_schedule.xml.gz
