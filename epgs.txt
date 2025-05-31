@@ -1,2 +1,2 @@
-https://www.andorradifusio.ad/programacio/canalweb
+https://www.andorradifusio.ad/programacio/canalweb.xml
 https://www.navarratelevision.es/Programacion/Canal2.xml
