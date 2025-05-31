@@ -1,2 +1,2 @@
-canalweb,ATVcanalweb 
+canalweb,AndorraTV
 parrilla,Elche 7 TV
