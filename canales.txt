@@ -1,2 +1,3 @@
 canalweb,ANDORRA TV
 Canal2,NATV 2
+Parrilla-Elche 7TV,Elche 7 TV
