@@ -1,1 +1,7 @@
-canalweb,Andorra TV
+atv,Andorra TV
+parrilla-2,Distrito TV
+guiatv,Melilla TV
+parrilla,Elche 7 TV
+Canal2,Navarra TV2
+guia-tv,Popular TV Cantabria
+t2_schedule,Tenis Channels 2
