@@ -1,2 +1,3 @@
 https://www.andorradifusio.ad/programacio/canalweb.xml.gz
 https://www.navarratelevision.es/Programacion/Canal2.xml.gz
+https://elche7tv.es/parrilla/.xml.gz
