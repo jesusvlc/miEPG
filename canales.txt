@@ -1,2 +1,2 @@
 canalweb,ANDORRA TV
-NATV 2,NATV 2
+Canal2,NATV 2
